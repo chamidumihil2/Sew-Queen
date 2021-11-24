@@ -1,4 +1,4 @@
-/*Sew Queen Whatsapp Bot    
+/* 𝓠͢ᴜ̸ᴇ͟͠ᴇɴ˜ ᴀ͢ꜱ̷͠ʜɪˉ°🧸💫 Whatsapp Bot    
 
 Telegram: https://t.me/RavinduManoj
 Facebook: https://www.facebook.com/ravindu.manoj.79
@@ -136,4 +136,4 @@ async function sewQueen() {
                                 await DataKey.connect();
                         } catch {
                                 return;}}}};
-    sewQueen()
+    𝓠͢ᴜ̸ᴇ͟͠ᴇɴ˜ ᴀ͢ꜱ̷͠ʜɪˉ°🧸💫()
